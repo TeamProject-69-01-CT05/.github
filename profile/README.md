@@ -12,8 +12,6 @@
 ผ่าน Terminal จำลอง ภารกิจที่ตรวจจากสถานะ Repository และโลก Pixel Art ภาษาไทย
 
 ![Status](https://img.shields.io/badge/status-in%20development-7c3aed?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-web-0ea5e9?style=for-the-badge)
-![Levels](https://img.shields.io/badge/levels-40-f59e0b?style=for-the-badge)
 ![Language](https://img.shields.io/badge/language-Thai-22c55e?style=for-the-badge)
 
 </div>
