@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Project Orbit
+# GitDiwaa
 
 ### เกมเรียนรู้ Git ผ่านการผจญภัยในหอคอยเวทมนตร์
 
