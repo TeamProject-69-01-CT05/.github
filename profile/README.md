@@ -1,4 +1,5 @@
 <div align="center">
+ 
 # GitDiwaa
  
 ### เกมเพื่อการเรียนรู้คำสั่ง Git และการทำงานเป็นทีม
@@ -14,6 +15,7 @@
 ![Language](https://img.shields.io/badge/language-Thai-22c55e?style=for-the-badge)
  
 </div>
+
 ---
  
 ## เรื่องราวภายในเกม
