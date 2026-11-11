@@ -72,7 +72,8 @@ Score · Stars · Coins · Progress
 ---
  
 <div align="center">
-### Learn Git. Restore the grimoire. Shape your own path.
+
+ ### Learn Git. Restore the grimoire. Shape your own path.
  
 **TeamProject-69-01-CT05 · Academic Year 2569**
  
